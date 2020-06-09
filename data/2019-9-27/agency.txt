@@ -1,0 +1,3 @@
+agency_phone,agency_fare_url,agency_url,agency_id,agency_name,agency_timezone,agency_lang
+615-862-8833,,http://www.rtarelaxandride.com,Middle Tennessee RTA,WeGo Public Transit,America/Chicago,en
+615-862-8833,,http://www.nashvillemta.org,Nashville MTA,WeGo Public Transit,America/Chicago,en
